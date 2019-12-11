@@ -9,7 +9,7 @@ public class CatlogItems {
     public CatlogItems(String movieName, String desc, int rating) {
         this.movieName = movieName;
         this.desc = desc;
-        this.rating = rating;
+        this.rating = rating ;
     }
 
     public String getMovieName() {
